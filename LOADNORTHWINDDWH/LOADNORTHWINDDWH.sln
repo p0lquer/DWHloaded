@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "LOADNORTHWINDDWH", "LOADNORTHWINDDWH.dtproj", "{08177A7C-EB4D-AE48-4835-88C4C6141C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08177A7C-EB4D-AE48-4835-88C4C6141C61}.Development|Default.ActiveCfg = Development
+		{08177A7C-EB4D-AE48-4835-88C4C6141C61}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7145914-8666-4BE9-9F49-E1E28C7AC2BB}
+	EndGlobalSection
+EndGlobal
